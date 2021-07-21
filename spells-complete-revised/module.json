@@ -1,0 +1,27 @@
+{
+    "name": "spells-complete-revised",
+    "title": "Spells (Complete) Revised",
+    "description": "DnD 5e spells from all source books up to TCoE, including AI, IDRotFM, EGtW, and GGtR.  Spells have been rebalanced.",
+    "author": "Enhander",
+    "version": "0.1.0",
+    "systems": [
+        "dnd5e"
+    ],
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.7.9",
+    "packs": [
+        {
+            "name": "spells-complete",
+            "label": "Spells (Complete)",
+            "path": "packs/spells-complete-revised.db",
+            "entity": "Item"
+        }
+    ],
+    "dependencies": [
+        {
+            "name": "dae",
+            "manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
+        }
+    ],
+    "url": "https://github.com/Enhander/Spells-Complete-Revised"
+}
