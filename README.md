@@ -19,7 +19,7 @@ This module contains spells from the following source books:
 
 ### What Are The Spell Revisions?
 
-The full changelog is viewable as a PDF <a href="https://github.com/Enhander/Spells-Complete-Revised/blob/main/Spells%20Changelog%20v0.1.0.pdf">here</a>, or as a webpage <a href="https://homebrewery.naturalcrit.com/share/WvQGyVQPPkNg">here</a>.
+The full changelog is viewable as a webpage <a href="https://homebrewery.naturalcrit.com/share/WvQGyVQPPkNg">here</a>.
 
 ### Who Are These Change Intended For?
 
